@@ -12,7 +12,7 @@ for i in sys.argv:
     print(i)
 print(' \n Python Path is ' ,sys.path)
 print('----Python 中的字符串----')
-str = 'this is my first python string'
+str = 'this is my first py_learn string'
 print(str.__sizeof__())
 for i in str:
     print(i, end=" ")

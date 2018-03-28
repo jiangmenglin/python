@@ -4,7 +4,7 @@
 
 * python is simple and useful.
 
-##如何学习Python
+## 如何学习Python
 
 1.看[a byte of python](https://python.swaroopch.com/ "Python简明教程")这本书,可以在线阅读。
 
@@ -16,7 +16,7 @@
 
 5.用Python实现数据结构算法，进一步加强编程能力。
 
-##python学习心得
+## python学习心得
 
 1.最近一段时间认真学习了Python，主要是去官方网站看了tutorial和library reference
   感觉学习起来还是很简单易懂。
